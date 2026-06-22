@@ -1,0 +1,9 @@
+# Submission History — 61. Rotate List
+
+**Difficulty:** Medium
+**Topics:** Linked List, Two Pointers
+**Problem:** https://leetcode.com/problems/rotate-list/
+
+| # | Date | Language | Status | Runtime | Memory | File |
+|---|------|----------|--------|---------|--------|------|
+| 1 | 2026-06-22 21:11 | Python3 | ✅ Accepted | 4 ms (5.369500000000004%) | 19.4 MB (8.526700000000005%) | [view](./2026-06-22_21-11_python3_accepted.md) |
